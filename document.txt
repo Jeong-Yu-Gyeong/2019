@@ -1,0 +1,5 @@
+*환경설정 : git config --global user.name Jeong-Yu-Gyeong
+	  git config --global user.email i1004yu@naver.com
+*폴더로 이동 : cd C:\
+
+*주소에 접근(다운로드) : git clone 
